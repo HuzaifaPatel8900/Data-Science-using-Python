@@ -1,5 +1,5 @@
 #Learning Data-Science-using-Python
- Core Python
+Core Python
 -OOPs concepts
 -Numpy
 -Pandas with datasets
