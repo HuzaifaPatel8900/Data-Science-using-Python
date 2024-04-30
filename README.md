@@ -7,4 +7,4 @@ Core Python
 -Seabornwith datasets
 -Supervise Learning Models with datasets
 -Unsupervised Learning Models with datasets
--Final Project  
+-Final Project
